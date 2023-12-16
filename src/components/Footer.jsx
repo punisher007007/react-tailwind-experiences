@@ -9,11 +9,11 @@ const Footer = () => {
         <div>
           <h6 className='font-bold uppercare pt-2'>Solutions</h6>
           <ul>
-            <li className='py-1'>Travel</li>
-            <li className='py-1'>Booking</li>
-            <li className='py-1'>Flights</li>
-            <li className='py-1'>Cruises</li>
-            <li className='py-1'>Ground</li>
+            <li className='py-1'>Adobe Photoshop</li>
+            <li className='py-1'>Lightroom</li>
+            <li className='py-1'>Lens Distortions</li>
+            <li className='py-1'>Skylum</li>
+            <li className='py-1'>MAC Editor</li>
           </ul>
         </div>
         <div>

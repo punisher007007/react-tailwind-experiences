@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className='w-full h-screen'>
       <img
-        className='top-0 left-0 w-full h-screen object-cover'
+        className='top-0 left-0 w-full h-screen object-cover blur-1'
         src='/Images/hero2.jpg'
         alt='/'
       />

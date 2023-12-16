@@ -19,10 +19,10 @@ const Footer = () => {
         <div>
           <h6 className='font-bold uppercare pt-2'>Support</h6>
           <ul>
-            <li className='py-1'>Pricing</li>
+            <li className='py-1'>Preset/ Luts Editing</li>
             <li className='py-1'>Documentation</li>
-            <li className='py-1'>Tours</li>
-            <li className='py-1'>Refunds</li>
+            <li className='py-1'>Applications</li>
+            <li className='py-1'>Lens Discussions</li>
           </ul>
         </div>
         <div>

@@ -38,7 +38,7 @@ const Footer = () => {
         <div>
           <h6 className='font-bold uppercare pt-2'>Legal</h6>
           <ul>
-            <li className='py-1'>Claims</li>
+            <li className='py-1'>CI</li>
             <li className='py-1'>Privacy</li>
             <li className='py-1'>Terms</li>
             <li className='py-1'>Policies</li>
@@ -58,7 +58,7 @@ const Footer = () => {
       </div>
 
       <div className='flex flex-col max-w-[1400px] px-2 py-4 mx-auto justify-between sm:flex-row text-center text-gray-500'>
-        <p className='py-4'>2022 Experiences, LLC. All rights reserved</p>
+        <p className='py-4'>2023 Lensimperfect. All rights reserved</p>
         <div className='flex justify-between sm:w-[300px] pt-4 text-2xl'>
           <FaFacebook />
           <FaInstagram />

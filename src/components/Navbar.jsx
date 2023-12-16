@@ -27,7 +27,7 @@ const Navbar = () => {
           <li className='font-bold text-3xl p-8'>Macro Photography</li>
           <li className='font-bold text-3xl p-8'>Micro Photography</li>
           <li className='font-bold text-3xl p-8'>Cinematic Editing</li>
-          <li className='font-bold text-3xl p-8'>Presets/ Luts</li>
+          <li className='font-bold text-3xl p-8'>Preset/ Luts</li>
           <li className='font-bold text-3xl p-8'>Cinematic Editing Training</li>
         </ul>
       </div>
